@@ -1,0 +1,40 @@
+body {
+  padding: 5%;
+  background-color: black;
+}
+
+.gradeBox {
+  width: 100%;
+  height: 2em;
+  background-color: black;
+  margin: 1em 0;
+}
+p {
+    color: red;
+}
+
+h1 {
+    color: red;
+}
+
+th {
+    color: red;
+}
+
+tr {
+    color: red;
+}
+
+
+h2 {
+    color: white;
+}
+
+.form-control {
+    background-color: #A9A9A9;
+    color: white;
+}
+
+#box {
+    background-color:silver;
+}
